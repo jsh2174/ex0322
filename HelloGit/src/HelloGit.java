@@ -1,6 +1,6 @@
 
 public class HelloGit {
-
+	// https://github.com/jsh2174/setEclipse.git
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
@@ -9,7 +9,9 @@ public class HelloGit {
 		System.out.println("2_add hotfix");
 		// 2. merge 후 마스터 브랜치 수정 !! 
 		System.out.println("3_add master ");
-		
+		// 3. github updata 
+		System.out.println("4_github update master ");
+	
 		
 	}
 
